@@ -4662,6 +4662,10 @@ html:not(.page-home) .header>.bg {
     margin-top: 30px
 }
 
+.site-main-pc {
+    padding: 200px;
+}
+
 .image-show .slick-dots li {
     width: 10px;
     height: 10px;
@@ -6776,6 +6780,7 @@ img.transform.horizontal {
 
 .page-content #depoimento {
     display: none
+
 }
 
 .editDep {
